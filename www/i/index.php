@@ -12,8 +12,9 @@
 
 <body>
     <?php
-    $start * "Vamos Começar!*";
-    echo "<h1>Olá Mundo! {$start}</h1>";
+
+    //$start * "Vamos Começar!*";
+    //echo "<h1>Olá Mundo! {$start}</h1>";
     echo "<p id='js'>Loading ...</p>";
     ?>
     <script src="assets/scripts.js"></script>

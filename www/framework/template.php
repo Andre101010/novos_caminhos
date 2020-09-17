@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '/../framework/fsphp.php';
+require __DIR__ . '/../framework/config.php';
 PHPClassName("CLASS_TITLE");
 
 /*
